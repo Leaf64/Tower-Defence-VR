@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: e66b00c7ab26ad3449aed3e08b729be7
+timeCreated: 1509202354
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cube_008
+    100018: Cube_009
+    100020: Icosphere
+    100022: Kula_ico_000
+    100024: Kula_ico_001
+    100026: Kula_ico_002
+    100028: Kula_ico_003
+    100030: Kula_ico_004
+    100032: Kula_ico_005
+    100034: Kula_ico_006
+    100036: Kula_ico_007
+    100038: Kula_ico_008
+    100040: Kula_ico_009
+    100042: Kula_ico_010
+    100044: Kula_ico_011
+    100046: //RootNode
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cube_008
+    400018: Cube_009
+    400020: Icosphere
+    400022: Kula_ico_000
+    400024: Kula_ico_001
+    400026: Kula_ico_002
+    400028: Kula_ico_003
+    400030: Kula_ico_004
+    400032: Kula_ico_005
+    400034: Kula_ico_006
+    400036: Kula_ico_007
+    400038: Kula_ico_008
+    400040: Kula_ico_009
+    400042: Kula_ico_010
+    400044: Kula_ico_011
+    400046: //RootNode
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Icosphere
+    2300022: Kula_ico_000
+    2300024: Kula_ico_001
+    2300026: Kula_ico_002
+    2300028: Kula_ico_003
+    2300030: Kula_ico_004
+    2300032: Kula_ico_005
+    2300034: Kula_ico_006
+    2300036: Kula_ico_007
+    2300038: Kula_ico_008
+    2300040: Kula_ico_009
+    2300042: Kula_ico_010
+    2300044: Kula_ico_011
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Icosphere
+    3300022: Kula_ico_000
+    3300024: Kula_ico_001
+    3300026: Kula_ico_002
+    3300028: Kula_ico_003
+    3300030: Kula_ico_004
+    3300032: Kula_ico_005
+    3300034: Kula_ico_006
+    3300036: Kula_ico_007
+    3300038: Kula_ico_008
+    3300040: Kula_ico_009
+    3300042: Kula_ico_010
+    3300044: Kula_ico_011
+    4300000: Icosphere
+    4300002: Cube_009
+    4300004: Cube
+    4300006: Cube_001
+    4300008: Cube_002
+    4300010: Cube_003
+    4300012: Cube_004
+    4300014: Cube_005
+    4300016: Cube_007
+    4300018: Cube_008
+    4300020: Cube_006
+    4300022: Kula_ico_001
+    4300024: Kula_ico_000
+    4300026: Kula_ico_002
+    4300028: Kula_ico_003
+    4300030: Kula_ico_004
+    4300032: Kula_ico_005
+    4300034: Kula_ico_006
+    4300036: Kula_ico_007
+    4300038: Kula_ico_008
+    4300040: Kula_ico_009
+    4300042: Kula_ico_010
+    4300044: Kula_ico_011
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
