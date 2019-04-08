@@ -12,7 +12,6 @@ Combine this with Google Cardboard you have your own VR system.
 
 ![Screenshot](image2.jpg)
 
-We created a simple game for this system to show its possibilities. 
-Watch a gameplay:
+
 
 
