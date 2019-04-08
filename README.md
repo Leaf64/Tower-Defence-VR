@@ -1,5 +1,7 @@
 # TowerDefenceVR
 
+Mobile VR game we created for Hackathon
+
 SEE GAMEPLAY:
 
 https://youtu.be/dJBQ0O3dObc
